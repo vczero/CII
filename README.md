@@ -1,7 +1,10 @@
-# CII
-The code and data will be ready shortly; let's first look at the visualization.    
+## CII
 
-[Click here to experience the visualized results online](https://vczero.github.io/CII/)
+- code/online-visualization: Visual analysis of spatial data, each file contains data;
+- code/work: Notebooks for the experiment.
+
+[Click here to experience the visualized results online](https://vczero.github.io/CII/)   
+
 
 
 |  visualization                                                                                      | visualization                                                                             |
@@ -14,4 +17,4 @@ The code and data will be ready shortly; let's first look at the visualization.
 | Provincial-level  Distribution                                                                      | Interaction-flow (Graph)  |  
 
 Note: We used L7VP for data visualization online.    
-
+Hope you enjoy it. 😊    
