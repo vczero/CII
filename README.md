@@ -1,7 +1,7 @@
 # CII
 
 - code/online-visualization: Visual analysis of spatial data, each file contains data;
-- code/work: Notebooks for the experiment.
+- code/work: Notebooks for the experiments.
 
 [Click here to experience the visualized results online](https://vczero.github.io/CII/)   
 
