@@ -1,5 +1,5 @@
 # CII   
-The work has been accepted and is awaiting publication.        
+The work has been published online. The DOI is [https://doi.org/10.1111/tgis.13249](https://doi.org/10.1111/tgis.13249)                    
 
 
 - code/online-visualization: Visual analysis of spatial data, each file contains data;
