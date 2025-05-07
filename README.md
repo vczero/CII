@@ -21,4 +21,4 @@ The work has been published online. The DOI is [https://doi.org/10.1111/tgis.132
 Note: We used L7VP for data visualization online.    
 Hope you enjoy it. 😊    
                                
-Thanks to the icon resource library:[IconPark](https://iconpark.oceanengine.com/home)
+Thanks to the icon resource library: https://iconpark.oceanengine.com/home
