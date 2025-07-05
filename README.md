@@ -1,4 +1,4 @@
-# CII   
+# City Influence Network: Mining and Analyzing the Influence of Chinese Cities Based on Social Media
 The work has been published online. The DOI is [https://doi.org/10.1111/tgis.13249](https://doi.org/10.1111/tgis.13249)                    
 
 
